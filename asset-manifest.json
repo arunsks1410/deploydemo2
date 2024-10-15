@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/deploydemo2/static/js/main.b279ccf2.js",
+    "index.html": "/deploydemo2/index.html",
+    "main.b279ccf2.js.map": "/deploydemo2/static/js/main.b279ccf2.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b279ccf2.js"
+  ]
+}
